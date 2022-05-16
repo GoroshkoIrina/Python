@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cf1339a-017a-481b-af31-211d2c12be6d" name="Changes" comment="task 2 and 3 is ready">
-      <change afterPath="$PROJECT_DIR$/Task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_3.py" afterDir="false" />
+    <list default="true" id="ee933513-e65e-4bfa-b102-752c949e5665" name="Changes" comment="task 2 and 3 is ready">
+      <change afterPath="$PROJECT_DIR$/Task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
