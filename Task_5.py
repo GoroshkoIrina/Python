@@ -15,3 +15,4 @@ print(unique_src2)
 unique_src2_ord = [el for el in src if el in unique_src2] #делаем сортировку как в изначальном списке
 print(unique_src2_ord)
 
+
